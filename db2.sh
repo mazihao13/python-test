@@ -6,3 +6,4 @@ else
 	echo "the file does not exist"
 fi
 first
+second
